@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Protos/CustomersCRUD.cs \
+obj\Debug\netcoreapp3.1\Protos/CustomersCRUDGrpc.cs: Protos/customersCRUD.proto
